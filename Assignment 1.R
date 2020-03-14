@@ -1,4 +1,4 @@
-# Assignment 2019/09/17 
+# Assignment 1 
 # Exercise 1 
 1+2*(3+4)
 4^3+3^(2+1)
